@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif)"/>
+  <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif"/>
 </p>
 <!--
 **Lovaniainaricky/Lovaniainaricky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
