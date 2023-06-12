@@ -1,6 +1,8 @@
 ### Hi there 👋
 <p align="center">
   It's Ricky
+  <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif">
+  
 </p>
 <!--
 **Lovaniainaricky/Lovaniainaricky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
